@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 My name is Simão and...:
 - 🤓 I really like to learn
-- 📚 I'm looking for a front-end developer job
-- 📊 Currently studying HTML, CSS, JS and React
-- 🎸 Also a big fan of playing guitar/bass
+- 📚 Currently working as a front-end developer
+- 📊 Currently studying ReactJS, TypeScript and Context-api
+- 🎸 Also a big fan of playing guitar/bass/accordion
