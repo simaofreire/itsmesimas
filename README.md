@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Simão Freire :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simaofreire/)](https://www.linkedin.com/in/simaofreire/)
-
+<!--
 ### Hellooo!!👋🏽 Welcome to my profile
 
 My name is Simão and...:
@@ -25,3 +25,4 @@ My name is Simão and...:
 - 📚 Currently working as a front-end developer
 - 📊 Currently studying ReactJS, TypeScript and Context-api
 - 🎸 Also a big fan of playing guitar/bass/accordion
+-->
